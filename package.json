@@ -1,0 +1,28 @@
+{
+  "name": "The-Ultimate-Scraper",
+  "version": "1.0.0",
+  "description": "This is an application that allows the user to view and comment on the latest news articles using mongoose and cheerio to scrape the site.  You will need to run an npm init and then download the these packages. (express, express-handlebars, mongoose, body-parser, cheerio, and request).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dariusw22/The-Ultimate-Scraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dariusw22/The-Ultimate-Scraper/issues"
+  },
+  "homepage": "https://github.com/dariusw22/The-Ultimate-Scraper#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^5.0.13",
+    "request": "^2.85.0"
+  }
+}
