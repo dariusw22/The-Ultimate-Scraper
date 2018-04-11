@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(240, 229, 211);
+}
+
+.jumbotron {
+    text-align: center;
+    background-image: url("http://newspaper-publishers.regionaldirectory.us/newspaper-720.jpg");
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-size: 1500px;
+    height: 500px;
+    color: rgb(41, 93, 153);
+}
